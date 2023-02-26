@@ -1,5 +1,7 @@
 # No Peaceful Mod
 
+This is a Minecraft 1.16.1-Fabric mod.
+
 ## Background
 
 As I have seen that some speedrunners accidentally switched their gamemode to peaceful, which caused their record to be invalid, I decide to write this no peaceful mod to prevent this from happening.
