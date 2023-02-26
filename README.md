@@ -16,4 +16,4 @@ Now the only way to switch to peaceful mode is by using commands.
 
 ## Warning
 
-This mod is still a beta version, and yet has not been accepted by the speedrun official.
+Not allowed in speedrun.
