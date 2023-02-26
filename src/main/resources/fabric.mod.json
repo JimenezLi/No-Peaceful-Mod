@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "no-peaceful",
+	"version": "${version}",
+	"name": "No Peaceful",
+	"description": "Disable peaceful for speedrunners",
+	"authors": [
+		"JimenezLi"
+	],
+	"contact": {
+		"homepage": "https://github.com/JimenezLi/no-peaceful/",
+		"sources": "https://github.com/JimenezLi/no-peaceful/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/no-peaceful/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "jimenezli.nopeaceful.NoPeaceful"
+		]
+	},
+	"mixins": [
+		"no-peaceful.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"minecraft": "~1.16.1",
+		"java": ">=16"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

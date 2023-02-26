@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "jimenezli.nopeaceful.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "NoPeacefulMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
